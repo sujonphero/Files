@@ -1,0 +1,492 @@
+[
+    {
+      "id": "001",
+      "name": "Acerola – West Indian Cherry",
+      "price": 10,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/acerola_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "002",
+      "name": "Apple",
+      "price": 6,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/apple_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "003",
+      "name": "Apricots",
+      "price": 10,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/apricot_small.jpg",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "004",
+      "name": "Avacado",
+      "price": 14,
+      "img": "https://github.com/sujonphero/Files/blob/main/FruitsImage/avocado_small.jpg?raw=true",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "005",
+      "name": "Banana",
+      "price": 2,
+      "img": "https://github.com/sujonphero/Files/blob/main/FruitsImage/banana_small.gif?raw=true",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "006",
+      "name": "Blacberries",
+      "price": 10,
+      "img": "https://github.com/sujonphero/Files/blob/main/FruitsImage/BlackberrySmall.jpg?raw=true",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "007",
+      "name": "Blackcurrant",
+      "price": 10,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/blackcurrant_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "008",
+      "name": "Blueberries",
+      "price": 12,
+      "img": "https://github.com/sujonphero/Files/blob/main/FruitsImage/blueberries_small.jpg?raw=true",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "009",
+      "name": "Breadfruit",
+      "price": 9,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/breadfruit_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "010",
+      "name": "Cantaloupe",
+      "price": 11,
+      "img": "https://github.com/sujonphero/Files/blob/main/FruitsImage/cantaloupe_small.gif?raw=true",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "011",
+      "name": "Carambola",
+      "price": 7,
+      "img": "https://github.com/sujonphero/Files/blob/main/FruitsImage/carambola_small.jpg?raw=true",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "012",
+      "name": "Cherimoya",
+      "price": 8,
+      "img": ".https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/cherimoya_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "013",
+      "name": "Cherries",
+      "price": 18,
+      "img": "https://github.com/sujonphero/Files/blob/main/FruitsImage/cherries_small.jpg?raw=true",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "014",
+      "name": "Clementine",
+      "price": 5,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/clementine_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "015",
+      "name": "Coconut Meat",
+      "price": 3,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/coconutmeat_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "016",
+      "name": "Cranberries",
+      "price": 13,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/Cranberriesforwebsite1.jpg",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "017",
+      "name": "Custard-Apple",
+      "price": 9,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/custardapple_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "018",
+      "name": "Date Fruit",
+      "price": 11,
+      "img": "https://github.com/sujonphero/Files/blob/main/FruitsImage/datefruit_small.gif?raw=true",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "019",
+      "name": "Durian",
+      "price": 10,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/durian_samll.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "020",
+      "name": "Elderberries",
+      "price": 9,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/elderberries_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "021",
+      "name": "Feijoa",
+      "price": 6,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/feijoa_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "022",
+      "name": "Figs",
+      "price": 10,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/fig_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "023",
+      "name": "Gooseberries",
+      "price": 11,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/gooseberries_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "024",
+      "name": "Grapefruit",
+      "price": 10,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/grapefruit_samll.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "025",
+      "name": "Grapes",
+      "price": 8,
+      "img": "https://github.com/sujonphero/Files/blob/main/FruitsImage/grapes_small.jpg?raw=true",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "026",
+      "name": "Guava",
+      "price": 10,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/guava_small.jpg",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "027",
+      "name": "Honeydew Melon",
+      "price": 5,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/honeydewmelon_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "028",
+      "name": "Jackfruit",
+      "price": 6,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/jackfruit_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "029",
+      "name": "Java-Plum",
+      "price": 10,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/javplum_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "030",
+      "name": "Jujube Fruit",
+      "price": 12,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/jujube_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "031",
+      "name": "Kiwifruit",
+      "price": 10,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/kiwi_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "032",
+      "name": "Kumquat",
+      "price": 8,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/kumquat_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "033",
+      "name": "Lemon",
+      "price": 6,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/lemon_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "034",
+      "name": "Longan",
+      "price": 9,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/longan_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "035",
+      "name": "Loquat",
+      "price": 10,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/loquat_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "036",
+      "name": "Lychee",
+      "price": 8,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/lychee_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "037",
+      "name": "Mandarin",
+      "price": 6,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/mandarin_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "038",
+      "name": "Mango",
+      "price": 10,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/mango_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "039",
+      "name": "Mangosteen",
+      "price": 13,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/mangosteen_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "040",
+      "name": "Mulberries",
+      "price": 10.5,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/mulberries_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "041",
+      "name": "Nectarine",
+      "price": 8.5,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/nectarine_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "042",
+      "name": "Olives",
+      "price": 10,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/olives_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "043",
+      "name": "Orange",
+      "price": 5.2,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/orange_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "044",
+      "name": "Papaya",
+      "price": 4,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/papaya_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "045",
+      "name": "Passion Fruit",
+      "price": 7.7,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/passionfruit_small.jpg",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "046",
+      "name": "Peaches",
+      "price": 7,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/peach_small.jpg",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "047",
+      "name": "Pear",
+      "price": 8,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/pear_small.jpg",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "048",
+      "name": "Persimmon",
+      "price": 6,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/persimmon_small-150x150.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "049",
+      "name": "Pitaya (Dragonfruit)",
+      "price": 15,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/Dragon-Fruit-Small.jpg",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "050",
+      "name": "Pineapple",
+      "price": 4,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/pineapple_small.jpg",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "051",
+      "name": "Pitanga",
+      "price": 10,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/pitanga_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "052",
+      "name": "Plantain",
+      "price": 3,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/plantain_small.jpg",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "053",
+      "name": "Plums",
+      "price": 10,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/plums_small.jpg",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "054",
+      "name": "Pomegranate",
+      "price": 10,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/pomegranate_small.jpg",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "055",
+      "name": "Prickly Pear",
+      "price": 10,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/tiny-prickly-pear.jpg",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "056",
+      "name": "Prunes",
+      "price": 12,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/prunes_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "057",
+      "name": "Pummelo",
+      "price": 3,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/pummelo_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "058",
+      "name": "Quince",
+      "price": 5,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/quince_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "059",
+      "name": "Raspberries",
+      "price": 10,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/raspberries_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "060",
+      "name": "Rhubarb",
+      "price": 6,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/rhubarb_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "061",
+      "name": "Rose-Apple",
+      "price": 8,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/roseapple_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "062",
+      "name": "Sapodilla",
+      "price": 6,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/sapodilla_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "063",
+      "name": "Sapote, Mamey",
+      "price": 10,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/sapote_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "064",
+      "name": "Soursop",
+      "price": 7,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/soursop_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "065",
+      "name": "Strawberries",
+      "price": 14,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/strawberries_small-e1426772485578.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "066",
+      "name": "Sugar-Apple",
+      "price": 5.1,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/sugarapple_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "067",
+      "name": "Tamarind",
+      "price": 11,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/tamarind_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "068",
+      "name": "Tangerine",
+      "price": 6,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/tangerine_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "069",
+      "name": "Watermelon",
+      "price": 6,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/watermelon_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    },
+    {
+      "id": "070",
+      "name": "Lemon",
+      "price": 7,
+      "img": "https://raw.githubusercontent.com/sujonphero/Files/main/FruitsImage/lemon_small.gif",
+      "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+    }
+  ]
